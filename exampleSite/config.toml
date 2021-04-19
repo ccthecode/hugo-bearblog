@@ -2,7 +2,7 @@
 baseURL = "/"
 
 # The name of this wonderful theme ;-).
-#theme = 'hugo-bearblog'
+theme = 'hugo-bearblog'
 themesDir = "../.."
 
 # Basic metadata configuration for your blog.
