@@ -3,7 +3,7 @@ baseURL = "/"
 
 # The name of this wonderful theme ;-).
 #theme = 'hugo-bearblog'
-themesDir = "../.."
+#themesDir = "../.."
 
 # Basic metadata configuration for your blog.
 title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
