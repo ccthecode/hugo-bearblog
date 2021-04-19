@@ -2,8 +2,8 @@
 baseURL = "https://example.com"
 
 # The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
-themesDir = "../.."
+#theme = 'hugo-bearblog'
+#themesDir = "../.."
 
 # Basic metadata configuration for your blog.
 title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
